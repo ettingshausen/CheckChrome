@@ -7,7 +7,6 @@ chmod +x ./util/checker.sh
 chmod +x ./util/xmlparser.sh
 chmod +x ./util/parse.sh
 chmod +x ./util/generator.sh
-chmod +x ./util/deployer.sh
 
 ./util/checker.sh
 
