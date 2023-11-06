@@ -1,0 +1,16 @@
+name: Run Custom Script
+on:
+  push:
+    branches:
+      - main # 你可以根据需要更改分支名称
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    - name: Run custom script
+      run: |
+        apt-get update && apt-get -y install libxml2-utils
+        chmod +x run.sh
+        ./run.sh
