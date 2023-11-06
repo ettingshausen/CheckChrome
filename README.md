@@ -6,9 +6,7 @@
 [![Build Status](https://img.shields.io/travis/SukkaW/CheckChrome.svg?style=flat-square)](https://travis-ci.org/SukkaW/CheckChrome)
 [![License](https://img.shields.io/github/license/sukkaw/CheckChrome.svg?style=flat-square)](./LICENSE)
 
-## Demo
 
-https://chrome-dl.com
 
 ## API for CheckChrome
 
