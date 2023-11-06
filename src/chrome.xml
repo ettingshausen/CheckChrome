@@ -55,22 +55,4 @@
     <sha256>{{dev-x64-SHA256}}</sha256>
     <size>{{dev-x64-Size}}</size>
   </dev64>
-  <canary32>
-    <version>{{canary-x86-Version}}</version>
-    <download>
-      <url>{{canary-x86-dl-main}}</url>
-      <url>{{canary-x86-dl-alternative}}</url>
-    </download>
-    <sha256>{{canary-x86-SHA256}}</sha256>
-    <size>{{canary-x86-Size}}</size>
-  </canary32>
-  <canary64>
-    <version>{{canary-x64-Version}}</version>
-    <download>
-      <url>{{canary-x64-dl-main}}</url>
-      <url>{{canary-x64-dl-alternative}}</url>
-    </download>
-    <sha256>{{canary-x64-SHA256}}</sha256>
-    <size>{{canary-x64-Size}}</size>
-  </canary64>
 </chromechecker>
