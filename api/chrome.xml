@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <chromechecker>
-  <time>2023-11-07 00:05:18</time>
+  <time>2023-11-07 00:11:54</time>
   <stable32>
     <version>109.0.5414.168</version>
     <download>
@@ -55,22 +55,4 @@
     <sha256>5fccbc9fb42a616c06b6bda64086d045908a8e6a23ac739baa1454dbf31b091b</sha256>
     <size>93138992</size>
   </dev64>
-  <canary32>
-    <version>{{canary-x86-Version}}</version>
-    <download>
-      <url>{{canary-x86-dl-main}}</url>
-      <url>{{canary-x86-dl-alternative}}</url>
-    </download>
-    <sha256>{{canary-x86-SHA256}}</sha256>
-    <size>{{canary-x86-Size}}</size>
-  </canary32>
-  <canary64>
-    <version>{{canary-x64-Version}}</version>
-    <download>
-      <url>{{canary-x64-dl-main}}</url>
-      <url>{{canary-x64-dl-alternative}}</url>
-    </download>
-    <sha256>{{canary-x64-SHA256}}</sha256>
-    <size>{{canary-x64-Size}}</size>
-  </canary64>
 </chromechecker>
