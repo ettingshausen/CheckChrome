@@ -1,6 +1,6 @@
-mkdir ./public/api -p
-mkdir ./tmp/checker -p
-mkdir ./tmp/parse -p
+mkdir -p ./public/api 
+mkdir -p ./tmp/checker
+mkdir -p ./tmp/parse
 mkdir ./tmp/api/
 
 chmod +x ./util/checker.sh
