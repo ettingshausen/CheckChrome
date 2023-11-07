@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <chromechecker>
-  <time>2023-11-07 00:11:54</time>
+  <time>2023-11-07 09:28:30</time>
   <stable32>
-    <version>109.0.5414.168</version>
+    <version>119.0.6045.106</version>
     <download>
-      <url>https://edgedl.me.gvt1.com/edgedl/release2/chrome/p5iizujxrjjggjfl7d4kvj5e5i_109.0.5414.168/109.0.5414.168_chrome_installer.exe</url>
-      <url>https://dl.google.com/release2/chrome/p5iizujxrjjggjfl7d4kvj5e5i_109.0.5414.168/109.0.5414.168_chrome_installer.exe</url>
+      <url>https://edgedl.me.gvt1.com/edgedl/release2/chrome/hidxab2rg5rn2v3ohn5t3n62va_119.0.6045.106/119.0.6045.106_chrome_installer.exe</url>
+      <url>https://dl.google.com/release2/chrome/hidxab2rg5rn2v3ohn5t3n62va_119.0.6045.106/119.0.6045.106_chrome_installer.exe</url>
     </download>
-    <sha256>373b7260e2e464759b6ae4a8133cdc4145397d7b72012b6f62f5b1fa4918188f</sha256>
-    <size>89269296</size>
+    <sha256>e36ca68a39d643d16146b1c02318f48cd76bde8c327ff3a912632eec6e907ac0</sha256>
+    <size>101858352</size>
   </stable32>
   <stable64>
     <version>109.0.5414.168</version>
