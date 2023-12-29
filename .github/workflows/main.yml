@@ -1,5 +1,7 @@
-name: Run Custom Script
+name: Latest Build
 on:
+  schedule:
+    - cron: '0 20 * * 2' # 每周二晚上8点触发
   push:
     branches:
       - master # 你可以根据需要更改分支名称
