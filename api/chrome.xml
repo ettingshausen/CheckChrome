@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <chromechecker>
-  <time>2026-02-04 04:23:44</time>
+  <time>2026-02-11 04:33:48</time>
   <stable32>
     <version>144.0.7559.133</version>
     <download>
@@ -20,39 +20,39 @@
     <size>447279528</size>
   </stable64>
   <beta32>
-    <version>145.0.7632.26</version>
+    <version>145.0.7632.45</version>
     <download>
-      <url>https://edgedl.me.gvt1.com/edgedl/release2/chrome/ogdsvuboxsk6vf657kqs2xleuu_145.0.7632.26/145.0.7632.26_chrome_installer_uncompressed.exe</url>
-      <url>https://dl.google.com/release2/chrome/ogdsvuboxsk6vf657kqs2xleuu_145.0.7632.26/145.0.7632.26_chrome_installer_uncompressed.exe</url>
+      <url>https://edgedl.me.gvt1.com/edgedl/release2/chrome/ahbidjzqxfgnset7a62hbk2j5q_145.0.7632.45/145.0.7632.45_chrome_installer_uncompressed.exe</url>
+      <url>https://dl.google.com/release2/chrome/ahbidjzqxfgnset7a62hbk2j5q_145.0.7632.45/145.0.7632.45_chrome_installer_uncompressed.exe</url>
     </download>
-    <sha256>f0f67e8f577d465aba49e93c1023f8719c8fde7791c32b400898fead9e7b5b71</sha256>
-    <size>374781864</size>
+    <sha256>fc6927c836013be541b3f418bbb1deb32b175fcf485fdbe6abc8df4539319091</sha256>
+    <size>371565992</size>
   </beta32>
   <beta64>
-    <version>145.0.7632.26</version>
+    <version>145.0.7632.45</version>
     <download>
-      <url>https://edgedl.me.gvt1.com/edgedl/release2/chrome/ageu2idokoe747kryqqkwfp5ai_145.0.7632.26/145.0.7632.26_chrome_installer_uncompressed.exe</url>
-      <url>https://dl.google.com/release2/chrome/ageu2idokoe747kryqqkwfp5ai_145.0.7632.26/145.0.7632.26_chrome_installer_uncompressed.exe</url>
+      <url>https://edgedl.me.gvt1.com/edgedl/release2/chrome/clr6zmzmxf6be2o6irkgbdehpq_145.0.7632.45/145.0.7632.45_chrome_installer_uncompressed.exe</url>
+      <url>https://dl.google.com/release2/chrome/clr6zmzmxf6be2o6irkgbdehpq_145.0.7632.45/145.0.7632.45_chrome_installer_uncompressed.exe</url>
     </download>
-    <sha256>ea339ad9a4227ef3762cd4b4450f883ccb09b3289b1401e77f871593c80ea985</sha256>
-    <size>451393448</size>
+    <sha256>5987f568d85d17addd20cc8d83afed94831bbaf77dcc4143f69db806b9bd5cee</sha256>
+    <size>451275688</size>
   </beta64>
   <dev32>
-    <version>146.0.7655.3</version>
+    <version>146.0.7670.2</version>
     <download>
-      <url>https://edgedl.me.gvt1.com/edgedl/release2/chrome/acnx5clx2ftg6lbxvdkdz665mmhq_146.0.7655.3/146.0.7655.3_chrome_installer_uncompressed.exe</url>
-      <url>https://dl.google.com/release2/chrome/acnx5clx2ftg6lbxvdkdz665mmhq_146.0.7655.3/146.0.7655.3_chrome_installer_uncompressed.exe</url>
+      <url>https://edgedl.me.gvt1.com/edgedl/release2/chrome/bhv4raltbzubmipevmuhyzboym_146.0.7670.2/146.0.7670.2_chrome_installer_uncompressed.exe</url>
+      <url>https://dl.google.com/release2/chrome/bhv4raltbzubmipevmuhyzboym_146.0.7670.2/146.0.7670.2_chrome_installer_uncompressed.exe</url>
     </download>
-    <sha256>0395d1d613381b6b53b52107705df5ae7e0aeace0faea779fbdb5d63cf1eb247</sha256>
-    <size>377248680</size>
+    <sha256>8645891b5027c5555ed45808c5ad115c9966ed266370a49dc9b6cc334ee2c37c</sha256>
+    <size>382339496</size>
   </dev32>
   <dev64>
-    <version>146.0.7655.3</version>
+    <version>146.0.7670.2</version>
     <download>
-      <url>https://edgedl.me.gvt1.com/edgedl/release2/chrome/acdruoxc5jxe44m4t7tgvaibscsa_146.0.7655.3/146.0.7655.3_chrome_installer_uncompressed.exe</url>
-      <url>https://dl.google.com/release2/chrome/acdruoxc5jxe44m4t7tgvaibscsa_146.0.7655.3/146.0.7655.3_chrome_installer_uncompressed.exe</url>
+      <url>https://edgedl.me.gvt1.com/edgedl/release2/chrome/ad3cg43b3e5pihhmybmiwpqviqxa_146.0.7670.2/146.0.7670.2_chrome_installer_uncompressed.exe</url>
+      <url>https://dl.google.com/release2/chrome/ad3cg43b3e5pihhmybmiwpqviqxa_146.0.7670.2/146.0.7670.2_chrome_installer_uncompressed.exe</url>
     </download>
-    <sha256>1d1adb5a3d21b7ee0f38de9c1ed18110b208ade55ac41b8b0a667f4d9dee5232</sha256>
-    <size>461517736</size>
+    <sha256>9d67288dc6319ac67feada7a9acce5ab77ec662dd23da74a4dd2ec307cfe054b</sha256>
+    <size>467012520</size>
   </dev64>
 </chromechecker>
